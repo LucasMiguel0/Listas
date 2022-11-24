@@ -9,6 +9,6 @@ Lista de material escolar
 <p>Régua</p> <img src="https://m.media-amazon.com/images/I/518-zv7dl3L._AC_SY355_.jpg" height=120>
 <p>Cola</p> <img src="https://img.kalunga.com.br/fotosdeprodutos/214599z.jpg" height=120>
 <p>Tesoura</p> <img src="https://static.welban.com.br/public/welban/imagens/produtos/tesoura-escolar-15-cm-sem-ponta-amarela-tilibra-2009.jpg" height=120>
-<p>Lápis de cor</p>
-<p>Apontador</p>
-<p>Caderno de arte</p>
+<p>Lápis de cor</p> <img src="https://global.cdn.magazord.com.br/6bpapelaria/img/2021/09/produto/185/lapis-de-cor-faber-castell-60-cores-3.jpg" height=120>
+<p>Apontador</p> <img src="https://a-static.mlcdn.com.br/800x560/apontador-sem-caixa-laminfort/oficinadasimpressoras/ce7d2b5aaa0611ea8e1d4201ac18501e/4d0db69145fcfc4fd92db3d935b55af1.jpeg" height=120>
+<p>Caderno de arte</p> <img src="https://www.livrarialoyola.com.br/resizer/view/373/373/false/true/378541.jpg" height=120>
